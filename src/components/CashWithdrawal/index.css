@@ -1,0 +1,95 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #150b3e;
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.williams-container {
+  display: flex;
+}
+.s-logo {
+  background-color: #ffffff;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #7c3aed;
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+
+.sarah-name {
+  color: #c7d2fe;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 24px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+
+.your-balance {
+  color: #382f5a;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.balance-amount {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 28px;
+  color: #d4d2db;
+}
+
+.in-rupees {
+  color: #382f5a;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.withdraw {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.choose-sum {
+  color: #9379f0;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.unorder-list-container {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

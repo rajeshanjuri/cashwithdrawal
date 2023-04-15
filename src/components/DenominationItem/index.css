@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  width: 45%;
+  margin-bottom: 16px;
+}
+
+.button-value {
+  background-color: #382f5a;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid #d4d2db;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  cursor: pointer;
+  outline: none;
+}
